@@ -11,8 +11,8 @@ embeddings, or supervised models.
 
 #Input format
 A CSV with at least:
-- `year` (or your chosen `--time-col`)
-- `text` (or your chosen `--text-col`)
+- year 
+- text
 
 Example:
 ```csv
