@@ -15,7 +15,6 @@ A CSV with at least:
 - text
 
 Example:
-```csv
 year,text
 1851,"I feel calm and hopeful about the future."
 1914,"Fear and despair spread across the city."
