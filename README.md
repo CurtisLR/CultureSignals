@@ -6,7 +6,7 @@ This is a small, focused text-mining project meant for cultural and cognitive-sc
 1) per-document emotion/cognition scores, and
 2) aggregated time-series trends with bootstrap confidence intervals.
 
-This repo gives a clean, reproducible baseline pipeline you can extend with larger lexicons,
+This repo gives a baseline pipeline you can extend with larger lexicons,
 embeddings, or supervised models.
 
 #Input format
